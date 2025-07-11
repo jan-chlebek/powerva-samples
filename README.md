@@ -1,8 +1,9 @@
 # Power Virtual Agents Samples
 
-This repository contains community samples that demonstrate different usage patterns for Power Virtual Agents.
+> [!IMPORTANT]  
+> This repository has been deprecated and is no longer accepting pull requests. All submissions were migrated to [Power Platform samples repository](https://github.com/pnp/powerplatform-samples).
 
-> We welcome community contributions to the `samples` folder in this repository for demonstrating different use cases with Power Apps.
+This repository contains community samples that demonstrate different usage patterns for Power Virtual Agents.
 
 ## Have issues or questions?
 
@@ -10,11 +11,7 @@ Please use following logic on submitting your questions or issues to right locat
 
 ## Additional resources
 
-- [Microsoft Tech Community](https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity)
-
-## Using the samples
-
-TODO
+- [Microsoft Tech Community](https://community.powerplatform.com/)
 
 ## Authors
 
